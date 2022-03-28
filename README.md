@@ -19,4 +19,4 @@ Roue chroma
 
 https://github.com/fujaru/jquery-wheelcolorpicker/blob/master/css/wheelcolorpicker.css
 
-
+Cour: https://www.w3schools.com/html/default.asp
